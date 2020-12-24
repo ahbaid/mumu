@@ -18,4 +18,4 @@ Deployment / Rollback:
 
 ### Homework Assignment 1: Due 12/25/2020
 1. List three Virtual Machine software packages you can use. Recommend one.
-2. List three Linux distributions you can download and use. Recommed one.
+2. List three Linux distributions you can download and use. Recommend one.
