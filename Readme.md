@@ -12,8 +12,8 @@ Java:
 Deployment / Rollback:
 1. 5 machines / 50 machines / 5000 machines / 50000 machines
 1. Questions:
-	1. How do i deploy / rollback? 
-	1. Manually copy, source then compile?
+	1. How would this code be deployed or rolled back?
+	1. Manually copy, source then compile? Any other approaches?
 	1. What if the machines are in use? What happens to customers trying to use them?
 
 ### Homework Assignment 1: Due 12/25/2020
