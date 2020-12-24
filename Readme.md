@@ -2,14 +2,12 @@
 
 ## 12/24/2020 - Start
 
-### Notes
-
-Java:
+### Java:
 1. Source: hello.java
 1. Compile: javac hello.java -> hello.class
 1. Run: java hello
 
-Deployment / Rollback:
+### Deployment / Rollback:
 1. 5 machines / 50 machines / 5000 machines / 50000 machines
 1. Questions:
 	1. How would this code be deployed or rolled back?
